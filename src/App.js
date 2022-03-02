@@ -12,7 +12,6 @@ function App() {
       <GlobalStyle/>
       <Container>
         <LinkBtn text="Проживання - Ubytovanie" link="https://fontawesome.com/icons/bed?s=light" icon={faBed}></LinkBtn>
-        <LinkBtn text="Проживання - Ubytovanie" link="https://fontawesome.com/icons/bed?s=light" icon={faBed}></LinkBtn>
       </Container>
     </Fragment>
   );
