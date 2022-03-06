@@ -16,7 +16,7 @@ import {colorTheme} from './theme/index';
 
 const Loader = () => (
   <div className="App">
-    
+
     <div>loading...</div>
   </div>
 );
@@ -26,7 +26,7 @@ function App() {
   const [sections, setSections] = useState([]);
   const [filteredSections, setFilteredSections] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
-  
+
   const [theme, setTheme] = useState(Object.keys(colorTheme)[0]);
 
 
