@@ -7,17 +7,22 @@
             "links": [
                 {
                     "title": "Praca 1",
-                    "url": "https://fontawesome.com/icons/bed?s=light",
+                    "url": "https://www.facebook.com/groups/rabotaveu",
                     "icon": "bed"
                 },
                 {
-                    "title": "Praca 2",
-                    "url": "https://fontawesome.com/icons/bed?s=light",
+                    "title": "Profesia",
+                    "url": "https://www.profesia.sk/",
                     "icon": "bed"
                 },
                 {
-                    "title": "Praca 3",
-                    "url": "https://fontawesome.com/icons/bed?s=light",
+                    "title": "Growni",
+                    "url": "https://growni.sk/jobs",
+                    "icon": "bed"
+                },
+                {
+                    "title": "Ponukampracu",
+                    "url": "https://www.ponukampracu.sk/",
                     "icon": "bed"
                 }
             ]
